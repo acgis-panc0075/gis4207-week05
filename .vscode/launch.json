@@ -1,0 +1,160 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "describe03",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/DhruveshP_AlbertM/describe03.py",
+            "args": ["C://acgis//gis4207_prog//data//Canada//province.shp"],
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "cwd": "${workspaceFolder}",
+            "stopOnEntry": false
+        },
+        {
+            "name": "describe04",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/DhruveshP_AlbertM/describe04.py",
+            "args": ["C://acgis//gis4207_prog//data//Canada//province.shp"],
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "cwd": "${workspaceFolder}",
+            "stopOnEntry": false
+        },
+        {
+            "name": "describe05",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/DhruveshP_AlbertM/describe05.py",
+            "args": ["C://acgis//gis4207_prog//data//Canada//province.shp"],
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "cwd": "${workspaceFolder}",
+            "stopOnEntry": false
+        },
+
+        {
+            "name": "describe06",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/DhruveshP_AlbertM/describe06.py",
+            "args": ["C://acgis//gis4207_prog//data//Canada//province.shp"],
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "cwd": "${workspaceFolder}",
+            "stopOnEntry": false
+        },
+
+        {
+            "name": "list02",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/DhruveshP_AlbertM/list02.py",
+            "args": ["C://acgis//gis4207_prog//data//SanFrancisco"],
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "cwd": "${workspaceFolder}",
+            "stopOnEntry": false
+        },
+        
+        {
+            "name": "list03",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/DhruveshP_AlbertM/list03.py",
+            "args": ["C://acgis//gis4207_prog//data//SanFrancisco","Point"],
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "cwd": "${workspaceFolder}",
+            "stopOnEntry": false
+        },
+
+        {
+            "name": "list04",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/DhruveshP_AlbertM/list04.py",
+            "args": ["C://acgis//gis4207_prog//data"],
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "cwd": "${workspaceFolder}",
+            "stopOnEntry": false
+        },
+
+        {
+            "name": "list05",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/DhruveshP_AlbertM/list05.py",
+            "args": ["C://acgis//gis4207_prog//data"],
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "cwd": "${workspaceFolder}",
+            "stopOnEntry": false
+        },
+
+        {
+            "name": "list06",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/DhruveshP_AlbertM/list06.py",
+            "args": ["C://acgis//gis4207_prog//data"],
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "cwd": "${workspaceFolder}",
+            "stopOnEntry": false
+        },
+
+        {
+            "name": "list07",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/DhruveshP_AlbertM/list07.py",
+            "args": ["C://acgis//gis4207_prog//data"],
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "cwd": "${workspaceFolder}",
+            "stopOnEntry": false
+        },
+
+        {
+            "name": "list08",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/DhruveshP_AlbertM/list08.py",
+            "args": ["C://acgis//gis4207_prog//data","Point","FeatureClass_List"],
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}"
+            },
+            "cwd": "${workspaceFolder}",
+            "stopOnEntry": false
+        },
+        
+    ]
+}
