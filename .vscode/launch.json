@@ -147,7 +147,7 @@
             "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/DhruveshP_AlbertM/list08.py",
-            "args": ["C://acgis//gis4207_prog//data","Point","FeatureClass_List"],
+            "args": ["C://acgis//gis4207_prog//data", "Point", "FeatureClass_List"],
             "console": "integratedTerminal",
             "env": {
                 "PYTHONPATH": "${workspaceFolder}"
